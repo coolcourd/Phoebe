@@ -1,19 +1,28 @@
+---
+title:  "Skin"
+subtitle: "First time with skin on skin contact"
+author: "Courd Headman"
+avatar: "/images/courd.jpg"
+image: "/images/April-14-2022/skin.jpg"
+date:   2022-04-14 12:12:12
+---
+
 # Skin
 ## April 14 2022
 
-![Image](/images/April-14-2022/skin.jpg)
+![Courd holding baby](/images/April-14-2022/skin.jpg)
 
 Today was a very special day. We woke up in the morning and got a hot breakfast from our hotel's cafeteria. We proceeded to work from the hotel until we decided that it is probably time to take a break, grab lunch, and stop in to see pheobe while we are at it.
 
 Elizabeth and I are still trying to figure out what to call her, but I am running with pheobe until she tells me it's something else.
 We got to the hospital to find her wrapped in a blue light up blanket.
-![Image](/images/April-14-2022/20220414_142516.jpg)
+![Pheobe in blue light blanket](/images/April-14-2022/20220414_142516.jpg)
 
 The blue light is used to help her skin. I learned that lots of times babies skin can get orange and they call it jaundice. Usually it doesnt need to be treated, but it can cause issues if it gets out of hand so they are taking care of it.
 
 To protect Phoebe's eyes, they put a blindfold on her face that Elizabeth loves. It looks like a pair of sun glasses which I have to admit, it's pretty cute. Pheobe of course, doesnt care for it and would prefer to be able to see,
 
-![Image](/images/April-14-2022/blindfold.jpg)
+![Pheobe glasses](/images/April-14-2022/blindfold.jpg)
 
 Elizabeth got to hold Pheobe in the big thick blanket for about 10 min before we got a call from our lawyer. She told us that we needed to come in to the office right away to sign our petition for temperary custody. After an hour drive there, a quick signature, and an hour drive back we had some work time to finish up.
 
@@ -23,7 +32,7 @@ After her bath Pheobe was hungry, and she ate almost all of her meal portion thr
 
 we were then told it would be a good chance for skin on skin contact. Elizabeth went first, I could tell it was a very special moment for her. Everything with the adoption has gone so fast, we didn't carry or give birth to this baby. A week ago we knew nothing about this oppertunity to adopt. Now we are being called mom and dad and we are meeting this beautiful baby girl for the first couple of times and it feels a little surreal.
 
-![Image](/images/April-14-2022/lizskin.jpg)
+![Mom and Pheobe](/images/April-14-2022/lizskin.jpg)
 
 When baby is wrapped in a blanket, sitting in a tub and you are afraid to hold her wrong and hurt her it's hard to get to know her. For the first time, Elizabeth got to feel Pheobe's nearly bare body up against her chest. Thier hearts were beating an inch apart from each other. Until now Elizabeth hadn't felt like pheobe we her baby but I can tell that this special time help break that feeling.
 
@@ -33,6 +42,6 @@ I had heard Elizabeth tell her several times that she loves her, but I hadn't fe
 
 I said a prayer in my head to give thanks for the miricle that is this girl. I gave thanks for the opertunity to adopt, The ease of the decision and process so far. I recieved confirmation that this is my baby and for the first time in probaby 7 years tears rolled down my face. I think it's good for your eyes anyway ;)
 
-![Image](/images/April-14-2022/special.jpg)
+![Dad and Pheobe](/images/April-14-2022/special.jpg)
 
 Around this time, the nurse insisted that we get Pheobe wrapped back in her blue light blanket. It was getting late and I was excited to write these feelings down before getting to bed. I think walking away felt like we were leaving a peice of ourselves behind. I am so excited to see her again tomorrow.

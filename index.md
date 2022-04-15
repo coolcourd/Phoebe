@@ -11,5 +11,6 @@ Elizabeth and I were presented with an opportunity to add a beautiful baby girl 
 
 ### skin
 [![baby on chest](/images/April-14-2022/skin.jpg)](/blog/skin)
+
 [The first day we were able to have skin on skin time with our girl.](/blog/skin)
 

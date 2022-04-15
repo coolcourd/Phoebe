@@ -1,7 +1,7 @@
-# Photos
+<!-- # Photos
 If you are just here for photos, you will find them throughout the site, But you can also view all of the photos/videos in my google drive link. we will continue to add photos and videos every day.
 
-[Click here for all google drive photos](https://drive.google.com/drive/u/0/folders/1er6h1sBKArrKzIAYFiDsrEpOqSbdnln6)
+[Click here for all google drive photos](https://drive.google.com/drive/u/0/folders/1er6h1sBKArrKzIAYFiDsrEpOqSbdnln6) -->
 
 # Posts
 

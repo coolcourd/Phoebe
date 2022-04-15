@@ -35,4 +35,4 @@ I said a prayer in my head to give thanks for the miricle that is this girl. I g
 
 ![Image](/images/April-14-2022/special.jpg)
 
-Around this time, the nurse insisted that we get Pheobe wrapped back in her blue light blanket. It was getting late and I was excited the write these feelings down before getting to bed. I think walking away felt like we were leaving a peice of ourselves behind. I am so excited to see her again tomorrow.
+Around this time, the nurse insisted that we get Pheobe wrapped back in her blue light blanket. It was getting late and I was excited to write these feelings down before getting to bed. I think walking away felt like we were leaving a peice of ourselves behind. I am so excited to see her again tomorrow.

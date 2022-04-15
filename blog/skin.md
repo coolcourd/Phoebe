@@ -36,7 +36,7 @@ we were then told it would be a good chance for skin on skin contact. Elizabeth 
 
 ![Mom and Phoebe](/images/April-14-2022/lizskin.jpg)
 
-When baby is wrapped in a blanket, sitting in a tub and you are afraid to hold her wrong and hurt her it's hard to get to know her. For the first time, Elizabeth got to feel Phoebe's nearly bare body up against her chest. Their hearts were beating an inch apart from each other. Until now Elizabeth hadn't felt like Phoebe we her baby but I can tell that this special time help break that feeling.
+When baby is wrapped in a blanket, sitting in a tub and you are afraid to hold her wrong and hurt her it's hard to get to know her. For the first time, Elizabeth got to feel Phoebe's nearly bare body up against her chest. Their hearts were beating an inch apart from each other. Until now Elizabeth hadn't felt like Phoebe was her baby but I can tell that this special time helped break that feeling.
 
 But I too got a turn to feel Phoebe on my chest. I was able to feel her head on my chest, her legs squirming occasionally across my belly and her belly somewhere in between. Holding her this way felt personal, I could feel her spirit singing a song of gratitude to be alive and here with me. 
 

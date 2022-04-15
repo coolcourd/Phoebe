@@ -10,6 +10,8 @@ date:   2022-04-14 12:12:12
 # Skin
 ## April 14 2022
 
+[Back to home](/)
+
 ![Courd holding baby](/images/April-14-2022/skin.jpg)
 
 Today was a very special day. We woke up in the morning and got a hot breakfast from our hotel's cafeteria. We proceeded to work from the hotel until we decided that it is probably time to take a break, grab lunch, and stop in to see Phoebe while we are at it.
@@ -45,3 +47,5 @@ I said a prayer in my head to give thanks for the miracle that is this girl. I g
 ![Dad and Phoebe](/images/April-14-2022/special.jpg)
 
 Around this time, the nurse insisted that we get Phoebe wrapped back in her blue light blanket. It was getting late and I was excited to write these feelings down before getting to bed. I think walking away felt like we were leaving a piece of ourselves behind. I am so excited to see her again tomorrow.
+
+[Back to home](/)

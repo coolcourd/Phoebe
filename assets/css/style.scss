@@ -11,7 +11,7 @@ body > header > a.btn{
     visibility: hidden;
 }
 
-.site-footer-owner:after {
+.site-footer-owner:before {
     visibility: visible;
     content: 'Phoebe Headman';
 }
@@ -20,7 +20,7 @@ body > header > a.btn{
     visibility: hidden;
 }
 
-.site-footer-credits:after {
+.site-footer-credits:before {
     visibility: visible;
     content: 'We are excited to be new parents.';
 }

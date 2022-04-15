@@ -6,3 +6,21 @@
 body > header > a.btn{
     display: none;
 }
+
+.site-footer-owner {
+    visibility: hidden;
+}
+
+.site-footer-owner:after {
+    visibility: visible;
+    content: 'Phoebe Headman';
+}
+
+.site-footer-credits {
+    visibility: hidden;
+}
+
+.site-footer-credits:after {
+    visibility: visible;
+    content: 'We are excited to be new parents.';
+}

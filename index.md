@@ -16,6 +16,17 @@ Elizabeth and I were presented with an opportunity to add a beautiful baby girl 
 ---
 ---
 
+## Lullaby
+[![photo](/images/April-15-2022/20220415_220630.jpg)](/blog/about-phoebe)
+
+We got to meet our baby's doctor and sing some songs to Phoebe.
+
+[Click to read post...](/blog/lullaby)
+
+---
+---
+---
+
 ## Skin
 [![baby on chest](/images/April-14-2022/skin.jpg)](/blog/skin)
 

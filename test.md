@@ -13,7 +13,6 @@ Want to support us on our journey? Visit our [Registry Page](/registry)
 [![First Family Photo](/images/April-13-2022/20220413_172133.jpg)](/blog/about-phoebe)
 
 Elizabeth and I were presented with an opportunity to add a beautiful baby girl to our family. God made it clear that this girl was sent for us. She came to us so fast.
-
 [Click to read post...](/blog/about-phoebe)
 
 

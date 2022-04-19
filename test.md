@@ -28,11 +28,3 @@ Want to support us on our journey? Visit our [Registry Page](/registry)
 
 
 
-
-
-
-| About our girl (Pinned📌) | Update |
-| ----------- | ----------- |
-| [![First Family Photo](/images/April-13-2022/20220413_172133.jpg)](/blog/about-phoebe) | [![First Family Photo](/images/April-17-2022/update.jpg)](/blog/update) |
-| Elizabeth and I were presented with an opportunity to add a beautiful baby girl to our family. God made it clear that this girl was sent for us. She came to us so fast. | Happy Easter! This is just a short update about Phoebe |
-| [Click to read post...](/blog/about-phoebe) | [Click to read post...](/blog/update) |

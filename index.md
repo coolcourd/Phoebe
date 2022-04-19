@@ -13,8 +13,7 @@ Want to support us on our journey? Visit our [Registry Page](/registry)
 | About our girl (Pinned📌) <br> April 15 2022 | Update <br> April 18 2022 |
 | ----------- | ----------- |
 | [![First Family Photo](/images/April-13-2022/20220413_172133.jpg)](/blog/about-phoebe) | [![First Family Photo](/images/April-17-2022/update.jpg)](/blog/update) |
-| Elizabeth and I were presented with an opportunity to add a beautiful baby girl to our family. God made it clear that this girl was sent for us. She came to us so fast. | Happy Easter! We wanted to post a short update about Phoebe. We celebrated easter with our Families and spent our first night away from Phoebe since we met her. |
-| [Click to read post...](/blog/about-phoebe) | [Click to read post...](/blog/update) |
+| Elizabeth and I were presented with an opportunity to add a beautiful baby girl to our family. God made it clear that this girl was sent for us. She came to us so fast. [Read post...](/blog/about-phoebe) | Happy Easter! We wanted to post a short update about Phoebe. We celebrated easter with our Families and spent our first night away from Phoebe since we met her. [Read post...](/blog/update) |
 
 
 
@@ -23,8 +22,7 @@ Want to support us on our journey? Visit our [Registry Page](/registry)
 |   Lullaby <br> April 15 2022   | Skin <br> April 14 2022 |
 | ----------- | ----------- |
 | [![photo](/images/April-15-2022/20220415_220630.jpg)](/blog/lullaby)   | [![baby on chest](/images/April-14-2022/skin.jpg)](/blog/skin)        |
-| We got to meet our baby's doctor and sing some songs to Phoebe.   | The first day we were able to have skin on skin time with our girl.        |
-| [Click to read post...](/blog/lullaby)   | [Click to read post...](/blog/skin)        |
+| We got to meet our baby's doctor and sing some songs to Phoebe. [Read post...](/blog/lullaby)  | The first day we were able to have skin on skin time with our girl. [Read post...](/blog/skin) |
 
 
 

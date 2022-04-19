@@ -1,5 +1,7 @@
 # Registry
 
+[Back to home](/)
+
 We appreciate all of your kind words, prayers love and support. Adopting a baby is expensive so we feel so blessed that so many of you have been asking how you can help.
 
 |  Amazon | Target  |
@@ -16,4 +18,4 @@ Don't want to deal with a registry? Money donations are very Helpful
 | [![PayPal](https://coolcourd.github.io/paypal.png "Paypal")](https://paypal.me/courd){:target="_blank" rel="noopener"}  | [![Venmo](https://coolcourd.github.io/venmo.png "Venmo")](https://venmo.com/code?user_id=1461853205037056079&created=1646871623){:target="_blank" rel="noopener"}  |
 
 
-
+[Back to home](/)

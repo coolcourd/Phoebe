@@ -16,11 +16,7 @@ Elizabeth and I were presented with an opportunity to add a beautiful baby girl 
 
 [Click to read post...](/blog/about-phoebe)
 
----
-.
 
----
-.
 
 | Latest Posts      |  |
 | ----------- | ----------- |

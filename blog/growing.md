@@ -1,11 +1,11 @@
- ​--- 
- ​title​:  ​"​Growing" 
- ​subtitle​: ​"Phoebe is doing great! She is starting to hit all of her goals"
- ​author​: ​"​Courd Headman​" 
- ​avatar​: ​"​/images/courd.jpg​" 
- ​image​: ​"​/images/April-19-2022/goals.jpg​" 
- ​date​:   ​2022-04-18 12:12:12 
- ​--- 
+---
+​title​:  ​"​Growing" 
+​subtitle​: ​"Phoebe is doing great! She is starting to hit all of her goals"
+​author​: ​"​Courd Headman​" 
+​avatar​: ​"​/images/courd.jpg​" 
+​image​: ​"​/images/April-19-2022/goals.jpg​" 
+​date​:   ​2022-04-18 12:12:12 
+​---
   
 #  ​Growing
  
@@ -19,10 +19,10 @@
  ​
  
 Phoebe's goals are to:
-- Nipple all feeds
-- Sleep
-- Grow
-- Bond with parents
+* Nipple all feeds
+* Sleep
+* Grow
+* Bond with parents
   
  ​And Phoebe is crushing it! We were a little worried because she kept losing weight, but it seems like the 1 week mark changed everything. She was only weighing 4lbs 3.5oz on Sunday. Now she is up to 4lbs 8.9oz
  

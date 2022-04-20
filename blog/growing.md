@@ -19,9 +19,13 @@
  ​
  
 Phoebe's goals are to:
+
 1. Nipple all feeds
+
 2. Sleep
+
 3. Grow
+
 4. Bond with parents
   
  ​And Phoebe is crushing it! We were a little worried because she kept losing weight, but it seems like the 1 week mark changed everything. She was only weighing 4lbs 3.5oz on Sunday. Now she is up to 4lbs 8.9oz

@@ -1,7 +1,10 @@
-<!-- # Photos
-If you are just here for photos, you will find them throughout the site, But you can also view all of the photos/videos in my google drive link. we will continue to add photos and videos every day.
-
-[Click here for all google drive photos](https://drive.google.com/drive/u/0/folders/1er6h1sBKArrKzIAYFiDsrEpOqSbdnln6) -->
+---
+title:  "Test"
+author: "Courd Headman"
+avatar: "/images/courd.jpg"
+image: "/images/April-17-2022/update.jpg"
+date:   2022-04-18 12:12:12
+---
 
 # Our baby registry
 Want to support us on our journey? Visit our [Registry Page](/registry)
@@ -19,4 +22,8 @@ Want to support us on our journey? Visit our [Registry Page](/registry)
 
 
 
-<script>alert()</script>
+<script>
+const frontmatter = JSON.parse(document.head.querySelector('script').innerText)
+console.log(frontmatter)
+
+</script>

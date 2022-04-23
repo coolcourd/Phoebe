@@ -7,10 +7,10 @@ image: "/images/April-22-2022/20220422_230022.jpg"
 date:   2022-04-22 12:12:12
 ---
 
-# About Phoebe
+# Phoebe We Missed You
 by Elizabeth
 
-## April 15 2022
+## April 22 2022
 
 [Back to home](/)
 

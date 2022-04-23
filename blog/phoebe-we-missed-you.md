@@ -14,9 +14,9 @@ by Elizabeth
 
 [Back to home](/)
 
-![First Family Photo](/images/April-22-2022/20220422_230022.jpg)
+![Holding her hand](/images/April-22-2022/20220422_230022.jpg)
 
-We haven't seen Phoebe for 2 days but we are back and she missed us!  And we missed her! She is chubbier than the last time we saw her.  Her face is rounder and her stomach more full.  Her birthweight was 2300 grams, then she dropped down to 19 something and now she is up to 2240 grams.  Almost back to her birth weight! 
+We haven't seen Phoebe for 2 days but we are back and she missed us!  And we missed her! She is chubbier than the last time we saw her. Her face is rounder and her stomach more full.  Her birthweight was 2300 grams, then she dropped down to 19 something and now she is up to 2240 grams.  Almost back to her birth weight! 
 
 Tonight was Courd's turn to do kangaroo care with her and boy was he excited! In the car on the way here he said "you know what's special about tonight? It's my turn to do kangaroo care with Phoebe!"  He sang her a lullaby (without crying)!  He also took a mini nap with her.  
 

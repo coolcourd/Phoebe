@@ -1,8 +1,8 @@
 #!/bin/bash
 
 function resize(){
-    ffmpeg -i "$1" -vcodec libx265 -crf 28 "videos/$(basename $1)"
-    rm -f $1
+    echo ffmpeg -i "$1" -vcodec libx264 -crf 28 "videos/$(basename $1)"
+    echo rm -f $1
 }
 
 for x in $(find raw -type f -name 20*.mp4)
